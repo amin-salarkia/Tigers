@@ -19,4 +19,5 @@ int main(){
 	for (int i = 0; i < y; i++)
 		res *= x;
 	printf ("%d\n", res);
+	printf("%d",isPrime(3));
 }
