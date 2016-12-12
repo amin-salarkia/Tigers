@@ -12,5 +12,5 @@ int isPrime(int a){
 }
 
 int main(){
-	printf ("Hello Git!\n");
+	printf("%d",isPrime(3));
 }
