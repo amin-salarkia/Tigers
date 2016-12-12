@@ -13,4 +13,10 @@ int isPrime(int a){
 
 int main(){
 	printf ("Hello Git!\n");
+	int x, y;
+	scanf ("%d%d", &x, &y);
+	int res = 1;
+	for (int i = 0; i < y; i++)
+		res *= x;
+	printf ("%d\n", res);
 }
