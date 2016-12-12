@@ -13,5 +13,4 @@ int isPrime(int a){
 
 int main(){
 	printf ("Hello Git!\n");
-	printf ("Bye\n");
 }
